@@ -7,8 +7,8 @@ To run the project you need to:
 
 2- Install JADE:
 Download the file JADE-all-3.6.zip from http://jade.tilab.com/download.php, unzip it and the four files:  
-`JADE-bin-3.6.zip` , `JADE-doc-3.6.zip`, `JADE-examples-3.6.zip`, `JADE-src-3.6.zip`.  
-Add a new classpath variable with the following line as value:
+`JADE-bin-3.6.zip` , `JADE-doc-3.6.zip`, `JADE-examples-3.6.zip`, `JADE-src-3.6.zip`.    
+Add a new classpath variable with the following line as value:  
 `C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\http.jar;C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\iiop.jar; C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\jade.jar;C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\jadeTools.jar`
 
 In order to confirm that JADE is working fine, run the following command in the command line: Java jade.Boot -gui
