@@ -12,4 +12,4 @@ Add a new classpath variable with the following line as value:
 `C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\http.jar;C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\iiop.jar; C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\jade.jar;C:\JADE-all-3.6\JADE-bin-3.6\jade\lib\jadeTools.jar`
 
 In order to confirm that JADE is working fine, run the following command in the command line: Java jade.Boot -gui
-You should see the JADE Remote Agent Management client window opening.
+You should see the JADE Remote Agent Management client window opening
